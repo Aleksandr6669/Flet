@@ -46,7 +46,7 @@ def user_info_view(page):
                                         ft.Icon(ft.Icons.PHONE, size=20, color=ft.Colors.RED_600),
                                         ft.Text("Телефон:", size=16, color=ft.Colors.RED_600),
                                     ], alignment=ft.MainAxisAlignment.START),
-                                    ft.Text("+3 999 999 99 99", text_align=ft.TextAlign.RIGHT, size=20, color=ft.Colors.BLACK, max_lines=3, overflow=ft.TextOverflow.ELLIPSIS, width=page.width * 0.5),
+                                    ft.Text("+380 (66) 017 56 27", text_align=ft.TextAlign.RIGHT, size=20, color=ft.Colors.BLACK, max_lines=3, overflow=ft.TextOverflow.ELLIPSIS, width=page.width * 0.5),
                                 ], alignment=ft.MainAxisAlignment.SPACE_BETWEEN, vertical_alignment=ft.CrossAxisAlignment.START),
                                 ft.Row([
                                     ft.Row([
