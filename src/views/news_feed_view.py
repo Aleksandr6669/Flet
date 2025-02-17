@@ -29,7 +29,7 @@ def news_feed_view(page):
             bgcolor=ft.Colors.GREY_200,
             width=page.width * 0.9,
             border_radius=24,
-            margin=ft.Margin(left=5, right=5, top=5, bottom=5)  
+            margin=ft.Margin(left=5, right=5, top=0, bottom=0)  
         )
     ], alignment=ft.MainAxisAlignment.CENTER)
 
